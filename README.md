@@ -16,6 +16,10 @@ git clone https://github.com/sxnvte/vpnconnect.git
 
 3. Cd into repository 
 
+```shell
+cd vpnconnect
+```
+
 4. Change config in vpnconnect.py file
 
 5. Add permissions to installation script
